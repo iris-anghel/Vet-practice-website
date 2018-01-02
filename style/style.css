@@ -235,13 +235,6 @@ blockquote {
     margin-bottom: 30px;
 }
 
-/* -------- login ------- */
-
-
-#sign-in-form {
-    padding: 10%;
-}
-
 /* ---- footer ----- */
 
 .footer1 {
@@ -258,52 +251,6 @@ blockquote {
     padding: 0;
 }
 
-/* ----- vet practise management ------ */
-
-.management-body {
-    padding-top: 110px;
-}
-
-.management-button {
-    border:1px solid #FFB726;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#ffa81d), to(#ff8e1d));
-    background-image: -webkit-linear-gradient(top, #ffa81d, #ff8e1d);
-    background-image: -moz-linear-gradient(top, #ffa81d, #ff8e1d);
-    background-image: -ms-linear-gradient(top, #ffa81d, #ff8e1d);
-    background-image: -o-linear-gradient(top, #ffa81d, #ff8e1d);
-    background-image: linear-gradient(to bottom, #ffa81d, #ff8e1d);
-}
-
-.management-button:hover {
-    -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
-    -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
-}
-
-/*  --- add new patient and owner forms --- */
-
-p.navbar-text {
-    margin: 20px 0 0 0;
-}
-
-/*  ----  list table ----  */
-
-#pet-search-modal, #owner-search-modal {
-    padding-top: 30px;
-}
-
-.list-buttons {
-    border-color: #3d0493;
-    margin-left: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
-.list-buttons:hover {
-    color: #E9E9E9;
-    background-color: #3d0493;
-}
 
 /*   ---- scroll button ---- */
 
